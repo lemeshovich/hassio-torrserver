@@ -11,7 +11,7 @@
 ![Supports armv7 Architecture](https://img.shields.io/badge/armv7-more%20likely-blue.svg)
 ![Supports i386 Architecture](https://img.shields.io/badge/i386-unknown-dbdbdc.svg)
 
-This is a TorrServer for Home Assistant.
+This is a TorrServer for HASSS.
 
 🌟 Please consider supporting [this project](https://github.com/aatrubilin/hassio-torrserver) by giving it a star.
 
