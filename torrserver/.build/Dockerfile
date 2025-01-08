@@ -8,6 +8,7 @@ WORKDIR /app
 
 # Environment variables
 ENV REACT_APP_SERVER_HOST="." \
+    REACT_APP_TMDB_API_KEY="f44699b0702245f9e1b0cf994a2eee70" \
     NODE_OPTIONS="--openssl-legacy-provider"
 
 RUN yarn install && yarn run build
