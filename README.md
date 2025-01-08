@@ -1,4 +1,4 @@
-# TorrServer addon for Home Assistant
+# TorrServer addon for Home Assistant #
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/aatrubilin/hassio-torrserver)](https://github.com/aatrubilin/hassio-torrserver)
 
