@@ -1,7 +1,7 @@
 #!/usr/bin/with-contenv bashio
 set -euo pipefail
 
-FLAGS="--path $TS_CONF_PATH --torrentsdir $TS_TORR_DIR --port $TS_PORT"
+FLAGS="--path $TS_CONF_PATH --torrentsdir $TS_TORR_DIR --sslport $TS_PORT"
 
 # Create conf path if not exists
 if [ ! -d $TS_CONF_PATH ]; then
